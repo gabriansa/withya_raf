@@ -1,0 +1,58 @@
+[   
+    {
+        "id": "0",
+        "text": "Low Energy \nPositive",
+        "color": "#5EF288"
+    },
+    {
+      "id": "1",
+      "text": "Calm",
+      "color": "#8FFEAB"
+    },
+    {
+        "id": "2",
+        "text": "Content",
+        "color": "#88FCA4"
+    },
+    {
+        "id": "3",
+        "text": "Grateful",
+        "color": "#7FF99E"
+    },
+    {
+        "id": "4",
+        "text": "Empathetic",
+        "color": "#73F696"
+    },
+    {
+        "id": "5",
+        "text": "Loved",
+        "color": "#68F48F"
+    },
+    {
+        "id": "6",
+        "text": "Secure",
+        "color": "#5EF288"
+    },
+    {
+        "id": "7",
+        "text": "Fulfilled",
+        "color": "#50EF82"
+    },
+    {
+        "id": "8",
+        "text": "Blissful",
+        "color": "#44ED7A"
+    },
+    {
+        "id": "9",
+        "text": "Moved",
+        "color": "#34EA74"
+    },
+    {
+        "id": "10",
+        "text": "Serene",
+        "color": "#1EE76C"
+    }
+  ]
+  

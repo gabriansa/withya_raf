@@ -1,0 +1,58 @@
+[
+    {
+        "id": "0",
+        "text": "Low Energy \nNegative",
+        "color": "#4AAAFF"
+    },
+    {
+      "id": "1",
+      "text": "Bored",
+      "color": "#7BD2FF"
+    },
+    {
+        "id": "2",
+        "text": "Tired",
+        "color": "#70C9FF"
+    },
+    {
+        "id": "3",
+        "text": "Sad",
+        "color": "#67C2FF"
+    },
+    {
+        "id": "4",
+        "text": "Lonely",
+        "color": "#5FBAFF"
+    },
+    {
+        "id": "5",
+        "text": "Guilty",
+        "color": "#54B2FF"
+    },
+    {
+        "id": "6",
+        "text": "Nostalgic",
+        "color": "#4AAAFF"
+    },
+    {
+        "id": "7",
+        "text": "Disappointed",
+        "color": "#3FA2FF"
+    },
+    {
+        "id": "8",
+        "text": "Insecure",
+        "color": "#309AFF"
+    },
+    {
+        "id": "9",
+        "text": "Depressed",
+        "color": "#2592FF"
+    },
+    {
+        "id": "10",
+        "text": "Hopeless",
+        "color": "#118AFF"
+    }
+  ]
+  

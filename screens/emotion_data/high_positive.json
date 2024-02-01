@@ -1,0 +1,58 @@
+[
+    {
+        "id": "0",
+        "text": "High Energy \nPositive",
+        "color": "#FCCC42"
+    },
+    {
+      "id": "1",
+      "text": "Pleasant",
+      "color": "#F9E26B"
+    },
+    {
+        "id": "2",
+        "text": "Curious",
+        "color": "#FADE62"
+    },
+    {
+        "id": "3",
+        "text": "Confident",
+        "color": "#FADA5B"
+    },
+    {
+        "id": "4",
+        "text": "Happy",
+        "color": "#FAD653"
+    },
+    {
+        "id": "5",
+        "text": "Eager",
+        "color": "#FBD04C"
+    },
+    {
+        "id": "6",
+        "text": "Enthusiastic",
+        "color": "#FCCC42"
+    },
+    {
+        "id": "7",
+        "text": "Proud",
+        "color": "#FCC735"
+    },
+    {
+        "id": "8",
+        "text": "Excited",
+        "color": "#FDC32B"
+    },
+    {
+        "id": "9",
+        "text": "Elated",
+        "color": "#FEBE21"
+    },
+    {
+        "id": "10",
+        "text": "Ecstatic",
+        "color": "#FFB911"
+    }
+  ]
+  

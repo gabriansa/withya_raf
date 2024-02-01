@@ -1,0 +1,23 @@
+[
+    {
+      "id": "1",
+      "text": "Circle 1",
+      "color": "#FF5733"
+    },
+    {
+      "id": "2",
+      "text": "Circle 2",
+      "color": "#33FF57"
+    },
+    {
+      "id": "3",
+      "text": "Circle 3",
+      "color": "#3357FF"
+    },
+    {
+      "id": "4",
+      "text": "Circle 4",
+      "color": "#F3F315"
+    }
+  ]
+  

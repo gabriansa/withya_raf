@@ -1,0 +1,58 @@
+[
+    {
+        "id": "0",
+        "text": "High Energy \nNegative",
+        "color": "#F15152"
+    },
+    {
+      "id": "1",
+      "text": "Uneasy",
+      "color": "#FE8160"
+    },
+    {
+        "id": "2",
+        "text": "Confused",
+        "color": "#FC785D"
+    },
+    {
+        "id": "3",
+        "text": "Concerned",
+        "color": "#F96F59"
+    },
+    {
+        "id": "4",
+        "text": "Frustrated",
+        "color": "#F76557"
+    },
+    {
+        "id": "5",
+        "text": "Anxious",
+        "color": "#F55A53"
+    },
+    {
+        "id": "6",
+        "text": "Angry",
+        "color": "#F15152"
+    },
+    {
+        "id": "7",
+        "text": "Overwhelmed",
+        "color": "#EF464E"
+    },
+    {
+        "id": "8",
+        "text": "Scared",
+        "color": "#EB3A4A"
+    },
+    {
+        "id": "9",
+        "text": "Jealous",
+        "color": "#EA2F47"
+    },
+    {
+        "id": "10",
+        "text": "Enraged",
+        "color": "#E72145"
+    }
+  ]
+  
